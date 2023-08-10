@@ -3,3 +3,6 @@
 
 # Object files
 /build/
+
+# hidden files
+.*
