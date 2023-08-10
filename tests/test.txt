@@ -1,0 +1,12 @@
+4
+Ti D 3 1500 10 0
+Pi T 1 1000 10 1 1
+GR B 0 500 29
+Money $ 2 1500 39
+AL Ti 5
+ML Pi -1
+ECH Ti 4
+HH GR 2
+RCH Ti 1
+DWE GR 0
+CPH Ti -1
