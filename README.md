@@ -5,7 +5,7 @@ The classic monopoly board game in your terminal.
 
 ## Usage
 1. Clone this repo
-2. Build the project by typing `make`into the terminal
+2. Build the project by typing `make` into the terminal
 3. Run `./bin/digitize` to start the game
 4. Follow the instructions presented in the terminal and play with 2 or more players :)
 5. Below are the list of input instructions
