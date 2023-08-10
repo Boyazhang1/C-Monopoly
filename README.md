@@ -11,8 +11,6 @@ The classic monopoly board game in your terminal.
 5. Below are the list of input instructions
 <img width="531" alt="Screen Shot 2023-08-10 at 5 32 03 PM" src="https://github.com/Boyazhang1/Cpp-Monopoly/assets/82241706/b11eb0cb-01a4-45ce-9b37-793cad06c4a9">
 
-> Note: in game, type "help" to get more information on all commands, and "abilities" to get more information on your abilities.
-
 ## Design
 <img width="1032" alt="Screen Shot 2023-08-10 at 5 24 46 PM" src="https://github.com/Boyazhang1/Cpp-Monopoly/assets/82241706/ddffef64-f366-459e-82ab-96192298a6e1">
 
