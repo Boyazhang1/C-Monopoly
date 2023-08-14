@@ -6,7 +6,7 @@ The classic monopoly board game in your terminal.
 ## Usage
 1. Clone this repo
 2. Build the project by typing `make` into the terminal
-3. Run `./bin/digitize` to start the game
+3. Run `./bin/watopoly` to start the game
 4. Follow the instructions presented in the terminal and play with 2 or more players :)
 5. Below are the list of input instructions
 <img width="531" alt="Screen Shot 2023-08-10 at 5 32 03 PM" src="https://github.com/Boyazhang1/Cpp-Monopoly/assets/82241706/b11eb0cb-01a4-45ce-9b37-793cad06c4a9">
